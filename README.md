@@ -3,6 +3,7 @@
 ## About the dataset:
 The Global Terrorism Database (GTD) is an open-source database including information on terrorist attacks around the world from 1970 through 2017. The GTD includes systematic data on domestic as well as international terrorist incidents that have occurred during this time period and now includes more than 180,000 attacks. The database is maintained by researchers at the National Consortium for the Study of Terrorism and Responses to Terrorism (START)
 
+## Execution: 
 
 For the First step, the data is imported from a csv file and converted to a  panda’s DataFrame . Pandas is inbuilt library in python that is used in handling and manipulating Dataframes. Dataframe is basically collection of Rows and Columns. 
 
@@ -20,6 +21,7 @@ Similarly, we can plot the frequency of attacks according to their months and fo
 Also, we plotted the equipment’s that were most used by the Terrorists in their attacks and found that Bombing/Explosion was the most used weapon/Equipment in the attacks.
 At last, by plotting the various targets on which the terrorist attack, we find that Private People and private property are the most attacked targets which was obvious as they are unarmed and most susceptible and last on their targets is Hijacking/Kidnapping. 
 
+##Conclusion:
 
 In the end, It was a good Experience working on the terrorist Data, But one downside with exploring these datasets is, the reason why these attacks happen are mostly political and neither can be explained nor be predicted by the most of Machine learning Algorithms but to some extent can certainly be used to reduce the number of attacks happening.
 
